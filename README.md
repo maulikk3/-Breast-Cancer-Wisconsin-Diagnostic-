@@ -1,4 +1,4 @@
-# Breast-Cancer-Wisconsin-Diagnostic
+
 # Breast Cancer Wisconsin (Diagnostic) Dataset - EDA & ML Pipeline
 
 This project performs full data analysis and modeling on the Breast Cancer Wisconsin (Diagnostic) dataset using Python. The goal is to classify tumors as malignant (M) or benign (B) based on features computed from digitized images of fine needle aspirates (FNA) of breast masses.
